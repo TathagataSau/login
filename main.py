@@ -1,18 +1,9 @@
-# This is a sample Python script.
-import math
-# Press Ctrl+F5 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-from math import *
-import first
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
+# main.py
+from frame_tkinter import window  # Import the Tkinter window from frame_tkinter.py
+from first import window
+def main():
+    # You can add any extra logic or configuration you want to initialize here
+    window.mainloop()  # This starts the Tkinter event loop
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('Tathagata')
-    print(math.pow(5,4))
-    first.new()
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+if __name__ == "__main__":
+    main()
