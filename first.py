@@ -10,7 +10,7 @@ inp2 = Label(window, text= "Hello cat", bg = "cyan", fg = "red" )
 def log_entry():
     print("logged in")
 
-button = Button(window, text = "LogIn", command= log_entry, bg= "orange", fg = "white")
+button = Button(window, text = "Log In", command= log_entry, bg= "orange", fg = "white", font = ("bold", 40), activebackground = "light blue", activeforeground= "black")
 
 inp.pack(side = TOP, fill = X, expand = False)
 inp1.pack(side = LEFT, fill = Y, expand = False)
