@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceb83dde-ce7c-4599-8491-4e87242366e1" name="Changes" comment="done with the buttons now menu bar">
-      <change afterPath="$PROJECT_DIR$/message_bar.py" afterDir="false" />
+    <list default="true" id="ceb83dde-ce7c-4599-8491-4e87242366e1" name="Changes" comment="done with initial message box">
+      <change afterPath="$PROJECT_DIR$/draw.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.draw.executor": "Run",
     "Python.entry_box_grid.executor": "Run",
     "Python.first.executor": "Run",
     "Python.frame_tkinter.executor": "Run",
@@ -177,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739302637576</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="done with initial message box">
+      <option name="closed" value="true" />
+      <created>1739303750846</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739303750846</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +194,7 @@
     <MESSAGE value="new" />
     <MESSAGE value="Now heading for entrybox and grids" />
     <MESSAGE value="done with the buttons now menu bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with the buttons now menu bar" />
+    <MESSAGE value="done with initial message box" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with initial message box" />
   </component>
 </project>
