@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceb83dde-ce7c-4599-8491-4e87242366e1" name="Changes" comment="done with initial message box">
-      <change afterPath="$PROJECT_DIR$/draw.py" afterDir="false" />
+    <list default="true" id="ceb83dde-ce7c-4599-8491-4e87242366e1" name="Changes" comment="learnt the drawing pretty much">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739303750846</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="learnt the drawing pretty much">
+      <option name="closed" value="true" />
+      <created>1739394644844</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739394644844</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,6 +202,7 @@
     <MESSAGE value="Now heading for entrybox and grids" />
     <MESSAGE value="done with the buttons now menu bar" />
     <MESSAGE value="done with initial message box" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with initial message box" />
+    <MESSAGE value="learnt the drawing pretty much" />
+    <option name="LAST_COMMIT_MESSAGE" value="learnt the drawing pretty much" />
   </component>
 </project>
